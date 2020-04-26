@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 548ab5df64abdee41ba06ea9e8e57606
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3040932412031935417
+    second: hotpng.com_0
+  - first:
+      213: 5490705242593999409
+    second: hotpng.com_1
+  - first:
+      213: -2014972504646358318
+    second: hotpng.com_2
+  - first:
+      213: -2901309249980058635
+    second: hotpng.com_3
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hotpng.com_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 209
+        width: 420
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3a22dcaef833a20800000000000000
+      internalID: 3040932412031935417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com_1
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 206
+        width: 420
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ab03fb357e23c40800000000000000
+      internalID: 5490705242593999409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com_2
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 209
+        width: 414
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daef5cce216904e0800000000000000
+      internalID: -2014972504646358318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com_3
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 206
+        width: 420
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f33263eb9a7cb7d0800000000000000
+      internalID: -2901309249980058635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -394.53122, y: 250.43477}
+      - {x: -406.24997, y: 246.52173}
+      - {x: -468.74997, y: 50.869564}
+      - {x: -468.74997, y: -152.60869}
+      - {x: -457.03122, y: -168.26086}
+      - {x: -386.71872, y: -250.43477}
+      - {x: -93.74999, y: -250.43477}
+      - {x: -35.15625, y: -156.52173}
+      - {x: -35.15625, y: 89.99999}
+      - {x: -128.90625, y: 250.43477}
+    - - {x: 710.93744, y: 250.43477}
+      - {x: 539.0625, y: 46.95652}
+      - {x: 539.0625, y: -187.82608}
+      - {x: 566.40625, y: -250.43477}
+      - {x: 886.7187, y: -250.43477}
+      - {x: 945.31244, y: -238.69563}
+      - {x: 972.6562, y: -179.99998}
+      - {x: 972.6562, y: 43.043476}
+      - {x: 777.3437, y: 250.43477}
+    - - {x: -972.6562, y: 250.43477}
+      - {x: -972.6562, y: -15.652173}
+      - {x: -816.4062, y: -246.52173}
+      - {x: -738.2812, y: -246.52173}
+      - {x: -539.0625, y: 39.130432}
+      - {x: -539.0625, y: 207.3913}
+      - {x: -562.5, y: 250.43477}
+    - - {x: 195.31248, y: -246.52173}
+      - {x: 265.625, y: -246.52173}
+      - {x: 464.84372, y: -66.521736}
+      - {x: 464.84372, y: 43.043476}
+      - {x: 261.71875, y: 250.43477}
+      - {x: 226.56248, y: 250.43477}
+      - {x: 39.0625, y: 11.73913}
+      - {x: 39.0625, y: -35.21739}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
